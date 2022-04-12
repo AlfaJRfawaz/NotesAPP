@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_image_no_notes">Image show up if no notes found</string>
+    <string name="content_fab_add_notes">Fab add notes</string>
+    <string name="txt_title">Enter title your note</string>
+    <string name="txt_priority">Category</string>
+    <string name="txt_date">Date</string>
+    <string name="txt_description">Write a note…</string>
+    <string name="txt_17_februari_2022">17 Februari 2022</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_delete">Delete All</string>
+    <string name="txt_priority_low">Priority Low</string>
+    <string name="txt_priority_high">Priority High</string>
+    <string name="txt_sort">Sort</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_go_to_detail">Go To Detail</string>
+    <string name="txt_sort_by">Sort By</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="txt_notes">Notes</string>
+</resources>
